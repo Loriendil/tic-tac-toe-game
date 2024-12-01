@@ -1,6 +1,6 @@
 The rules of the game of tic-tac-toe implemented in this project:
 
-(1) players take turns
+(1) players take turns one after another
 
 (2) a player can be another person or a computer
 
